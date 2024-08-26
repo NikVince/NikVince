@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**darkstardust98/darkstardust98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about coding and problem-solving. I'm currently expanding my knowledge by learning Rust alongside my university curriculum. I'm eager to dive deeper into the world of software development and contribute to meaningful projects.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
+- **Languages:** Rust, Python, Java
+- **Tools:** Git, Jetbrains Community IDEs, Linux, MacOs
+- **Interests:** Systems Programming, Algorithms, Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- **Rust:** Exploring memory safety, concurrency, and systems programming.
+- **Computer Science Fundamentals:** Strengthening my grasp on algorithms, data structures, and operating systems.
+
+## 📚 Projects
+I'm currently working on small projects and coding challenges to sharpen my skills. I aim to contribute to open-source projects soon as I continue to grow as a developer.
+
+## 🚀 Future Goals
+- Build and contribute to impactful open-source projects.
+- Deepen my knowledge in systems programming and cybersecurity.
+- Collaborate with the developer community to learn and share knowledge.
+
+## 📫 Let's Connect!
+- **GitHub:** [(https://github.com/darkstardust98)]
+- **LinkedIn:** [x] WORK IN PROGRESS - Not available yet.
