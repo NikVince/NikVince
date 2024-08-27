@@ -21,4 +21,4 @@ I'm currently working on small projects and coding challenges to sharpen my skil
 
 ## 📫 Let's Connect!
 - **GitHub:** [(https://github.com/darkstardust98)]
-- **LinkedIn:** [(https://www.linkedin.com/in/nikolas-vincenti-711490325/?trk=opento_sprofile_topcard)]
+- **LinkedIn:** [(https://www.linkedin.com/in/nikolas-vincenti/)]
