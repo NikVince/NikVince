@@ -1,24 +1,16 @@
 # Hi there! 👋
 
-I'm a Computer Science student passionate about coding and problem-solving. I'm currently expanding my knowledge by learning Rust alongside my university curriculum. I'm eager to dive deeper into the world of software development and contribute to meaningful projects.
+I'm a Computer Science student with a passion for coding, problem-solving, and all things tech. From hardware to software, I'm enthusiastic about the entire IT ecosystem. Currently expanding my knowledge through my university curriculum while focusing on game development with Unreal Engine 5 and C++.
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Rust, Python, Java
-- **Tools:** Git, Jetbrains Community IDEs, Linux, MacOs
-- **Interests:** Systems Programming, Algorithms, Data Structures
+I work primarily with C++, Python, and Java, and have dabbled with various other programming languages along my journey. I have good knowledge of all major operating systems including Linux, MacOS, and Windows. My interests span game development with Unreal Engine 5, systems programming, algorithms, and data structures.
 
 ## 🌱 Currently Learning
-- **Rust:** Exploring memory safety, concurrency, and systems programming.
-- **Computer Science Fundamentals:** Strengthening my grasp on algorithms, data structures, and operating systems.
+I'm focusing on mastering C++ for game development with Unreal Engine 5, while strengthening my computer science fundamentals in algorithms, data structures and game logic. Though I've experimented with different programming languages, I'm now committed to deepening my expertise in C++ for both game and low level systems development.
 
-## 📚 Projects
-I'm currently working on small projects and coding challenges to sharpen my skills. I aim to contribute to open-source projects soon as I continue to grow as a developer.
-
-## 🚀 Future Goals
-- Build and contribute to impactful open-source projects.
-- Deepen my knowledge in systems programming and cybersecurity.
-- Collaborate with the developer community to learn and share knowledge.
+## 📚 Projects & Goals
+I'm currently working on coding challenges and game development projects to sharpen my skills, with aims to create engaging games, contribute to open-source projects, and deepen my knowledge across game development, systems programming, cybersecurity and artificial intelligence. I look forward to collaborating with the developer community to learn and share knowledge.
 
 ## 📫 Let's Connect!
-- **GitHub:** [(https://github.com/darkstardust98)]
-- **LinkedIn:** [(https://www.linkedin.com/in/nikolas-vincenti/)]
+- **GitHub:** (https://github.com/darkstardust98)
+- **LinkedIn:** (https://www.linkedin.com/in/nikolas-vincenti/)
