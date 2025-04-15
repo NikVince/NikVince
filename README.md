@@ -1,5 +1,5 @@
-<h1>Nikolas | C++ Game & Systems Programmer 👾</h1>
-<p>Passionate about optimization, memory management, game mechanics and the concept of learning something new every day.</p>
+<h1>Nikolas | CS Student & C++ Programmer 💻</h1>
+<p>Computer Science student passionate about optimization, memory management, and embracing continuous learning. My current focus is building strong foundations in C++ systems programming while exploring various software development domains. I enjoy tinkering with UE5 as a creative side project, applying programming concepts in interactive environments. Open to opportunities that will help me grow as a developer and put theoretical knowledge into practice.</p>
 <h2>🛠️ Tech Stack & Arsenal</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
