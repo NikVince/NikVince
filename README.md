@@ -2,9 +2,9 @@
 
 Currently focused on full stack development. Built a foundation with C/C++, Java, and now diving deep into JavaScript, HTML/CSS for frontend while leveraging Rust for backend work. The blend of Rust's performance and safety on the server side paired with modern frontend tools keeps me coding late into the night.
 
-I'm currently working through App Academy Open's full stack curriculum, with the goal of building robust web applications that combine the reliability of Rust backends with responsive, interactive frontends. This journey is teaching me to appreciate both sides of the development stack.
+I'm currently working through App Academy Open's full stack curriculum, to combine applied practice with the theoretical knowledge I am acquiring from my ongoing CS degree at IU, with the goal of building robust web applications that combine the reliability of Rust backends with responsive, interactive frontends. This journey is teaching me to appreciate both sides of the development stack.
 
-Looking to connect with developers who never stop growing and exploring.
+Looking to connect with likeminded developers who never stop growing and exploring.
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
