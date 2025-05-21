@@ -1,6 +1,6 @@
 # Nikolas | CS Student & Full Stack Developer 🦀
 
-Currently focused on full stack development. Built a foundation with C/C++, Java, and now diving deep into JavaScript, HTML/CSS for frontend while leveraging Rust for backend work. The blend of Rust's performance and safety on the server side paired with modern frontend tools keeps me coding late into the night.
+Currently focused on full stack development. Built a foundation with C/C++ and Java, and now diving deep into JavaScript, HTML/CSS for frontend while leveraging Rust for backend work. The blend of Rust's performance and safety on the server side paired with modern frontend tools keeps me coding late into the night.
 
 I'm currently working through App Academy Open's full stack curriculum, to combine applied practice with the theoretical knowledge I am acquiring from my ongoing CS degree at IU, with the goal of building robust web applications that combine the reliability of Rust backends with responsive, interactive frontends. This journey is teaching me to appreciate both sides of the development stack.
 
