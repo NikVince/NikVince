@@ -1,8 +1,8 @@
 # Nikolas | CS Student & Full Stack Developer 🦀
 
-Currently focused on full stack development through App Academy Open's curriculum. Built a foundation with C/C++ and Java, and now progressing through JavaScript, HTML/CSS, Node.js, and React for modern web development, while leveraging Rust for performance-critical backend work. Working toward learning Python and PostgreSQL to increase my full stack  applied practice with the theoretical knowledge I am acquiring from my ongoing CS degree at IU, with the goal of building robust web applications that combine the reliability of Rust backends with responsive, interactive frontends. This journey is teaching me to appreciate both sides of the development stack.
+Currently focused on full stack development through App Academy Open's curriculum. Built a foundation with C/C++ and Java, and now progressing through JavaScript, HTML/CSS, Node.js, and React for modern web development, while leveraging Rust for performance-critical backend work. Working toward learning Python and PostgreSQL to increase my full stack toolbox.
 
-Looking to connect with likeminded developers who never stop growing and exploring.
+Looking forward to connect with likeminded developers who never stop growing and exploring.
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
