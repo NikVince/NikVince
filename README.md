@@ -1,6 +1,6 @@
 # Nikolas | CS Student & Full Stack Developer 🦀
 
-Currently focused on full stack development through App Academy Open's curriculum whilst learning the fundamental concepts of IT from my ongoing CS degree at IU.
+Currently focused on getting better at full stack development whilst learning the fundamental concepts of IT from my ongoing CS degree at IU.
 
 I have Built a foundation with C/C++ and Java, and am now progressing through JavaScript, HTML/CSS, Node.js, and React for modern web development, whilst leveraging Rust for performance-critical backend work. 
 Working towards learning Python and PostgreSQL to increase my full stack toolbox.
