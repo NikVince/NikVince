@@ -2,11 +2,11 @@
 
 Currently focused on mastering machine learning and data science whilst learning the fundamental concepts of IT from my ongoing CS degree at IU.
 
-I have built a foundation with C/C++ and Java, and am now progressing through Python, focusing on ML libraries like NumPy, Pandas, Scikit-learn, and TensorFlow. Following Andrew Ng's Coursera course for foundational ML knowledge and working towards becoming proficient in deep learning and data analysis.
+I have built a foundation with C/C++ and Java, and am now progressing through Python, focusing on ML libraries like NumPy, Pandas, Scikit-learn, and TensorFlow. I am working towards becoming an expert in machine learning and data analysis through hands-on learning projects.
 
-Previously built experience in full stack development with JavaScript, HTML/CSS, Node.js, and React, whilst leveraging Rust for performance-critical backend work. Also familiar with PostgreSQL and various CI/CD tools.
+Previously built experience in full stack development with JavaScript, HTML/CSS, Node.js, and React, whilst leveraging Rust for performance-critical backend work. Also familiar with SQL and various CI/CD tools.
 
-Looking forward to connect with likeminded developers and data scientists who never stop growing and exploring new concepts.
+Looking forward to connecting with likeminded developers and data scientists who never stop growing and exploring new concepts.
 
 ## 🛠️ Tech Stack
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
