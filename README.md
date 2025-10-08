@@ -1,8 +1,8 @@
 # Nikolas | CS Student & ML Enthusiast 🧠
 
-Currently focused on mastering machine learning and data science whilst learning the fundamental concepts of IT from my ongoing CS degree at IU.
+Currently focused on building solid foundations in machine learning and data science whilst learning the fundamental concepts of IT from my ongoing CS degree at IU, with plans to pursue a machine learning specialization in my master's degree.
 
-I have built a foundation with C/C++ and Java, and am now progressing through Python, focusing on ML libraries like NumPy, Pandas, Scikit-learn, and TensorFlow. I am working towards becoming an expert in machine learning and data analysis through hands-on learning projects.
+I have built a foundation with C/C++ and Java, and am now progressing through Python, focusing on ML libraries like NumPy, Pandas, Scikit-learn, and TensorFlow. I am working towards developing strong fundamentals in ML and AI through hands-on learning projects.
 
 Previously built experience in full stack development with JavaScript, HTML/CSS, Node.js, and React, whilst leveraging Rust for performance-critical backend work. Also familiar with SQL and various CI/CD tools.
 
