@@ -1,12 +1,12 @@
-# Nikolas | CS Student & ML Enthusiast 🧠
+# Nikolas | CS Student & Cybersecurity Enthusiast 🛡️
 
-Currently focused on building solid foundations in machine learning and data science whilst learning the fundamental concepts of IT from my ongoing CS degree at IU, with plans to pursue a machine learning specialization in my master's degree.
+Currently transitioning from executive management to the cybersecurity sector. I am a second-year Computer Science student at IU International University, blending a strong background in IT infrastructure, corporate risk, and digital transformation with hands-on systems expertise.
 
-I have built a foundation with C/C++ and Java, and am now progressing through Python, focusing on ML libraries like NumPy, Pandas, Scikit-learn, and TensorFlow. I am working towards developing strong fundamentals in ML and AI through hands-on learning projects.
+My technical foundation spans Linux Systems Administration, Networking, and Proxmox Virtualization. Recently, I have been deeply focused on leveraging Artificial Intelligence for security applications, utilizing Python, NumPy and Pandas alongside industry-standard ML frameworks.
 
-Previously built experience in full stack development with JavaScript, HTML/CSS, Node.js, and React, whilst leveraging Rust for performance-critical backend work. Also familiar with SQL and various CI/CD tools.
+Previously, I served as CEO and Tech Lead, where I architects corporate IT infrastructure, managed security protocols, and drove digital modernization. I also have hands-on experience in full-stack development (JavaScript, Node.js, React) and systems programming (Rust, C/C++).
 
-Looking forward to connecting with likeminded developers and data scientists who never stop growing and exploring new concepts.
+I am currently seeking a Cybersecurity Career (relocating to Germany) to apply my analytical problem-solving skills, AI knowledge, and infrastructure expertise to protect enterprise assets. Feel free to send me an e-mail for collabs and project ideas.
 
 ## 🛠️ Tech Stack
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
